@@ -53,4 +53,3 @@ class DeleteAdminUserCommand extends Command
         return 0;
     }
 }
-

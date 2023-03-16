@@ -4,7 +4,7 @@
         <arguments>
             <argument name="commands" xsi:type="array">
                 <item name="deleteAdminUserCommand" xsi:type="object">MaximusSallam\DeleteAdminUserCommand\Console\DeleteAdminUserCommand</item>
-	    </argument>
-	</arguments>
+            </argument>
+        </arguments>
     </type>
 </config>
