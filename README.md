@@ -1,6 +1,8 @@
 # Magento 2 DeleteAdminUserCommand module
 
-A module for Magento 2 that allows you to delete admin users from the command line
+A module for Magento 2 that allows you to delete admin users from the command line.
+
+Tested with Magento 2.4.5-p1 Community Edition on Nexcess Magento hosting.
 
 Installation:
 
